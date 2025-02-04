@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on building an efficient multilingual document retrieval system capable of processing a corpus of over 250,000 documents in seven languages. The system retrieves the top 10 most relevant documents for each query while balancing speed and accuracy. The final model was evaluated and submitted on Kaggle.
+This project aims to develop a high-performance multilingual document retrieval system that processes a corpus of over 250,000 documents in seven languages. It retrieves the top 10 most relevant documents per query while optimizing both speed and accuracy. The final model was tested and submitted on Kaggle for evaluation.
 
 ## Approach
 
